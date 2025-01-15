@@ -1,0 +1,5 @@
+train: 'D:\YOMTEK PROJECTS\my python\yolo\fire detection\train'
+val: 'D:\YOMTEK PROJECTS\my python\yolo\fire detection\val'
+
+nc: 2
+names: ['fire','smoke']
